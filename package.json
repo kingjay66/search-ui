@@ -165,7 +165,7 @@
     "moment": "^2.29.4",
     "pikaday": "^1.4.0",
     "popper.js": "^1.14.3",
-    "underscore": "^1.13.1",
+    "underscore": "^1.13.6",
     "xregexp": "^4.2.4"
   },
   "resolutions": {
