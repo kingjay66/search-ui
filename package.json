@@ -164,7 +164,7 @@
     "modal-box": "^2.0.10",
     "moment": "^2.29.4",
     "pikaday": "^1.4.0",
-    "popper.js": "^1.14.3",
+    "popper.js": "^1.16.1",
     "underscore": "^1.13.1",
     "xregexp": "^4.2.4"
   },
