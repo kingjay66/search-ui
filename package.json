@@ -166,7 +166,7 @@
     "pikaday": "^1.4.0",
     "popper.js": "^1.14.3",
     "underscore": "^1.13.1",
-    "xregexp": "^4.2.4"
+    "xregexp": "^4.3.0"
   },
   "resolutions": {
     "lodash": "^4.17.12",
